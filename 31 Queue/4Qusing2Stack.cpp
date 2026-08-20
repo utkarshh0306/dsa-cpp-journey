@@ -41,5 +41,6 @@ int main(){
     q.pop();
     cout<<q.front()<<endl;
 
+    
     return 0;
 }
